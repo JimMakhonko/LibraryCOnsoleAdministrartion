@@ -43,7 +43,7 @@ namespace LibAdmin
                                 }
                             }
                         }
-                        if (authorFound = false)
+                        if (authorFound == false)
                         {
                             Console.WriteLine("There's no such author!");
                         }
